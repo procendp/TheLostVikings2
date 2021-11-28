@@ -23,7 +23,7 @@ HRESULT playGround::init()
 	_player = new player;	//동적할당
 	_player->init();		//player꺼를 그대로 쓰려면 동적할당 후, init, update, render 다 해주고 시작해야지
 
-	_enemy = new enemy;
+	_enemy = new enemy; 
 	_enemy->init();
 
 	_om = new obstacleManager;
