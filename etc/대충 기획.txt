@@ -1,0 +1,68 @@
+1. 캐릭터							2. 맵	3. 에너미		4. NPC		5. 효과		6. 카메라		7. HUD		(++ 보스... 인트로...)	그리고 소소한 것들..
+	1) 에릭	-ㅇ idle
+		-ㅇ run
+		-ㅇ dash
+		-ㅇ push
+		-ㅇ jump
+		-ㅇ swim
+		-ㅇ ladderRide
+		-ㅇ ropeRide
+		-ㅇ damage	- ㅇfall / ㅇfire / ㅇdefault
+		-ㅇ death
+
+	2) 베일로그
+		- ㅇidle
+		- ㅇrun
+		- ㅇattack		- ㅇpunch / ㅇsword
+		- ㅇpush
+		- ㅇfall
+		- ㅇladderRide
+		- ㅇropeRide
+		- ㅇdamage	- ㅇfall / ㅇfire / ㅇdefault
+		- ㅇdeath
+
+	3) 올라프 - idle
+		- run
+		- shield		-top / left / right
+		- push
+		- jump
+		- ladderRide
+		- parachute
+		- downDash
+		- smaller
+		- damage	- fall / fire / default
+		- death
+
+
+
+
+
+
+
+
+
+
+34 34가 16 48이 된다.
+
+34 : 32 = 90 : x
+		84
+		
+48 : 26 = 150 : 81
+
+[원본]
+ㅇ맥주 17x17
+ㅇ폭탄
+ㅇ오브
+ㅇ키
+ㅇ카드
+
+ㅇ마녀 34x34
+ㅇ박혀있는 돌 32x32
+
+
+ㅇ도르레 32x16
+불한개 28x32
+ㅇ불세개 48x26
+ㅇ6개 박스 낯개로 16x16
+
+ㅇ문 16x48
